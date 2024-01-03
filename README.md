@@ -28,8 +28,8 @@ The challenge was to build a blog preview card that includes a title, image, exc
 
 ### Screenshot
 
-![Desktop](/Preview/Desktop-image.jpeg)
-![Mobile](/Preview/Mobile-image.jpeg)
+![Desktop](Desktop-image.jpeg)
+![Mobile](Mobile-image.jpeg)
 
 
 ### Links
